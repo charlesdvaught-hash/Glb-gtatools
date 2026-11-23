@@ -1,0 +1,6 @@
+{
+  "name": "Sketchfab-to-FiveM Parity Gate",
+  "description": "Code-based Canonical IR and visual/animation parity gate for verifying FiveM Sollumz exports against Sketchfab previews, with Phase 6 repo patches and optional Gemini Vision review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
